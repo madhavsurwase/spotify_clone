@@ -5,12 +5,11 @@ A Spotify-inspired web app built with **Next.js**, **Tailwind CSS**, and **Fireb
 
 ## 🚀 Features
 - 🔐 Firebase Authentication (Google Sign-In)
-- 📦 Firebase Hosting
 - 🎧 Music player-style UI
 - ⚡ Fast, modern stack with Next.js and Tailwind CSS
 
 ## 🛠 Tech Stack
-Next.js · Tailwind CSS · Firebase · TypeScript
+Next.js · Tailwind CSS · TypeScript
 
 ## 🧑‍💻 Getting Started
 
