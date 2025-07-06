@@ -1,9 +1,21 @@
-<<<<<<< HEAD
-# Firebase Studio
 
-This is a NextJS starter in Firebase Studio.
+# 🎧 Spotify Clone
 
-To get started, take a look at src/app/page.tsx.
-=======
-# spotify_clone
->>>>>>> 94a6b06a58a57f3f2dbccf5da8265430bccb0830
+A Spotify-inspired web app built with **Next.js**, **Tailwind CSS**, and **Firebase**. Features include responsive design and Google Authentication.
+
+## 🚀 Features
+- 🔐 Firebase Authentication (Google Sign-In)
+- 📦 Firebase Hosting
+- 🎧 Music player-style UI
+- ⚡ Fast, modern stack with Next.js and Tailwind CSS
+
+## 🛠 Tech Stack
+Next.js · Tailwind CSS · Firebase · TypeScript
+
+## 🧑‍💻 Getting Started
+
+```bash
+git clone https://github.com/madhavsurwase/spotify_clone.git
+cd spotify_clone
+npm install
+npm run dev
